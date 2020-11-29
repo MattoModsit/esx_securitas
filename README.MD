@@ -1,1 +1,3 @@
-Siibä teille basic varija jobi, tehty esx_policejobin pohjalta!
+Muokattu esx_policejob:in pohjaan
+
+Discord:¿Mättö#1234
